@@ -9,10 +9,10 @@
         <div class="container">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link active" href="/siswa">Data Siswa</a>
+                    <a class="nav-link " href="/siswa">Data Siswa</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/guru">Data Guru</a>
+                    <a class="nav-link active" href="/guru">Data Guru</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/galeri">Gallery</a>
